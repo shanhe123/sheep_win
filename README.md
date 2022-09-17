@@ -1,8 +1,7 @@
 ## 使用方法
-`npm i`
-`npm run win`
+`npm install`
+`node index.js uid`
 
+其中，uid替换为自己的uid，比如我的uid是45942602，那就运行：
 
-Or
-
-`node index.js`
+`node index.js 45942602 `
