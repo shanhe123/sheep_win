@@ -26,7 +26,7 @@ async function main() {
   }, 1500)
 }
 
-// uid: 45942602
+// uid: 15899731
 async function getOpenId(uid) {
   const res = await axios.get(`https://cat-match.easygame2021.com/sheep/v1/game/user_info?uid=${uid}`, {
     headers: {
